@@ -1,4 +1,5 @@
-<h2 align="center">We're looking for new collaborators & Feature requests are currently closed</h1>
+<h2 align="center">We're looking for new collaborators.</h1>
+<p align="center">Important note: Feature requests are currently closed</p>
 <hr>
 
 <h1 align="center">Prodigy Hacking</h1>
