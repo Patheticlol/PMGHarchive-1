@@ -10,7 +10,7 @@ You may ***never***:
 
 - sell our hacks in any way shape or form
 - hide our hacks behind a paywall/subscribewall of any kind
-  - This includes adfly 😐
+  - This includes adf.ly 😐
 - use our hacks to leak private information
 - use our hacks to steal user login information or tokens
 - claim ownership of our hacks (Just stop bragging about it 😠)
