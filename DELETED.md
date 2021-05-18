@@ -1,3 +1,3 @@
-This was removed in the official repository, but here's a rewrite.
+<h2 align="center">PIXI Parxh</h1>
+<p align="center">*** REMOVED IN THE ORIGINAL REPO, DO NOT MERGE THIS ***</p>
 ---
-<h2>PIXI</h2>
